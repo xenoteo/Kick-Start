@@ -1,4 +1,4 @@
-# Workout
+# [Workout](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d3f5b)
 ## Problem
 Tambourine has prepared a fitness program so that she can become more fit! The program is made of **N** sessions. During the i-th session, Tambourine will exercise for **M<sub>i</sub>** minutes. The number of minutes she exercises in each session are *strictly increasing*.
 
