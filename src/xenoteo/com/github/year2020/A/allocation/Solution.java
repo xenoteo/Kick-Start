@@ -18,6 +18,9 @@ public class Solution {
         }
     }
 
+    /*
+     * sorting houses' costs and taking as many first (cheapest) houses as possible haven provided budget
+     */
     public static int maximumHousesNumber(int budget, int[] costs){
         Arrays.sort(costs);
         long totalSum = 0;
