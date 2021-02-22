@@ -7,14 +7,14 @@ public class Solution {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int testCasesNumber = in.nextInt();
-        for (int i = 0; i < testCasesNumber; i++){
+        for (int t = 0; t < testCasesNumber; t++){
             int size = in.nextInt();
             int budget = in.nextInt();
             int[] costs = new int[size];
-            for (int house = 0; house < size; house++){
-                costs[house] = in.nextInt();
+            for (int i = 0; i < size; i++){
+                costs[i] = in.nextInt();
             }
-            System.out.printf("Case #%d: %d\n", i + 1, maximumHousesNumber(budget, costs));
+            System.out.printf("Case #%d: %d\n", t + 1, maximumHousesNumber(budget, costs));
         }
     }
 

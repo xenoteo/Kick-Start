@@ -6,14 +6,14 @@ public class Solution {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int testCasesNumber = in.nextInt();
-        for (int i = 0; i < testCasesNumber; i++){
+        for (int t = 0; t < testCasesNumber; t++){
             int n = in.nextInt();
             int k = in.nextInt();
             String[] strings = new String[n];
-            for (int string = 0; string < n; string++){
-                strings[string] = in.next();
+            for (int i = 0; i < n; i++){
+                strings[i] = in.next();
             }
-            System.out.printf("Case #%d: %d\n", i + 1, maxScoreSum(strings, k));
+            System.out.printf("Case #%d: %d\n", t + 1, maxScoreSum(strings, k));
         }
     }
 
