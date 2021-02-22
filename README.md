@@ -8,3 +8,5 @@ Solutions to the Google Kick Start challenges.
     - [Plates](https://github.com/xenoteo/Kick-Start/tree/main/src/xenoteo/com/github/year2020/A/plates)
     - [Workout](https://github.com/xenoteo/Kick-Start/tree/main/src/xenoteo/com/github/year2020/A/workout)
     - [Bundling](https://github.com/xenoteo/Kick-Start/tree/main/src/xenoteo/com/github/year2020/A/bundling)
+  - [Round B](https://github.com/xenoteo/Kick-Start/tree/main/src/xenoteo/com/github/year2020/B)
+    - [Bike Tour](https://github.com/xenoteo/Kick-Start/tree/main/src/xenoteo/com/github/year2020/B/bikeTour)
