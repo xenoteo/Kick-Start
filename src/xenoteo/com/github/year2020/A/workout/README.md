@@ -1,4 +1,4 @@
-# Workout
+# [Workout](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7/00000000001d3f5b)
 ## Problem
 Tambourine has prepared a fitness program so that she can become more fit! The program is made of **N** sessions. During the i-th session, Tambourine will exercise for **M<sub>i</sub>** minutes. The number of minutes she exercises in each session are *strictly increasing*.
 
@@ -18,7 +18,7 @@ Memory limit: 1GB.
 1 ≤ **T** ≤ 100.  
 For at most 10 test cases, 2 ≤ **N** ≤ 10<sup>5</sup>.  
 For all other test cases, 2 ≤ **N** ≤ 300.  
-1 ≤ **<sub>i</sub>** ≤ 109.
+1 ≤ i ≤ 10<sup>9</sup>.
 **M<sub>i</sub>** < **M<sub>i + 1</sub>** for all i.  
 1 ≤ **K** ≤ 10<sup>5</sup>.
 
