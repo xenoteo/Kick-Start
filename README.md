@@ -10,3 +10,4 @@ Solutions to the Google Kick Start challenges.
     - [Bundling](https://github.com/xenoteo/Kick-Start/tree/main/src/xenoteo/com/github/year2020/A/bundling)
   - [Round B](https://github.com/xenoteo/Kick-Start/tree/main/src/xenoteo/com/github/year2020/B)
     - [Bike Tour](https://github.com/xenoteo/Kick-Start/tree/main/src/xenoteo/com/github/year2020/B/bikeTour)
+    - [Bus Routes](https://github.com/xenoteo/Kick-Start/tree/main/src/xenoteo/com/github/year2020/B/busRoutes)
